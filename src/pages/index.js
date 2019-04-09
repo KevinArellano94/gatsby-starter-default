@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people, this is Kevin.</h1>
+    <h1>Hi people, this is Kevin!</h1>
     <div data-netlify-identity-menu />
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
