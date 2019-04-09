@@ -12,7 +12,7 @@ const IndexPage = () => [
     <Helmet>
       <script />
     </Helmet>
-    <h1>Hi people, this is Kevin.</h1>
+    <h1>Hi people, this is Kevin!</h1>
     <div data-netlify-identity-menu />
     <div data-netlify-identity-button>Login with Netlify Identity</div>
     <p>Welcome to your new Gatsby site.</p>
